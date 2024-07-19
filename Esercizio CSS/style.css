@@ -1,0 +1,20 @@
+*{font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;}
+
+h1, h2, h3{
+            font-family: "Noto Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight:300px;
+            font-style: normal;
+            font-variation-settings:"wdth" 100;
+            color:rgb(235, 0, 255);
+            background-color: rgba(255, 245, 105, 0.682);}
+
+.bgimg {height: 500px;
+        border: 1px solid black;
+        background-image: url(./media/css.png);
+        background-size: contain;
+        background-attachment: fixed;}
+
+a:link {background-color: aqua;}
+a:hover{background-color: rgba(255, 0, 0, 0.689)}
